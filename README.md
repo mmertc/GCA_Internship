@@ -10,7 +10,7 @@ A few example photos of my work from my Internship in GCA
 
 
 
-# HotSpot Detection
+# Hotspot Detection
 
 ![WhatsApp Image 2022-09-21 at 01 15 33 (1)](https://user-images.githubusercontent.com/98234434/197883303-13ef6b05-a128-404d-a9cf-1126f56331e3.jpeg)
 ![WhatsApp Image 2022-09-21 at 01 15 33](https://user-images.githubusercontent.com/98234434/197883308-12695bb2-5de1-4643-abc8-41663cfddc22.jpeg)
